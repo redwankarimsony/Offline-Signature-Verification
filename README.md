@@ -9,7 +9,11 @@
   <div class="column">
     <img src="Doc/Result%20Output/precision_recall_Dutch.png" alt="Forest" style="width:100%">
   </div>
+    <div class="column">
+    <img src="signature_matching.png" alt="Forest" style="width:100%">
+  </div>
 </div>
+
 
 
 
