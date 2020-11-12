@@ -1,0 +1,235 @@
+@SIFT{lowe1999object,
+  title={Object recognition from local scale-invariant features},
+  author={Lowe, David G},
+  booktitle={Computer vision, 1999. The proceedings of the seventh IEEE international conference on},
+  volume={2},
+  pages={1150--1157},
+  year={1999},
+  organization={Ieee}
+}
+
+@SURF{bay2006surf,
+  title={Surf: Speeded up robust features},
+  author={Bay, Herbert and Tuytelaars, Tinne and Van Gool, Luc},
+  booktitle={European conference on computer vision},
+  pages={404--417},
+  year={2006},
+  organization={Springer}
+}
+@BRIEF{calonder2010brief,
+  title={Brief: Binary robust independent elementary features},
+  author={Calonder, Michael and Lepetit, Vincent and Strecha, Christoph and Fua, Pascal},
+  booktitle={European conference on computer vision},
+  pages={778--792},
+  year={2010},
+  organization={Springer}
+}
+@ORB{rublee2011orb,
+  title={ORB: An efficient alternative to SIFT or SURF},
+  author={Rublee, Ethan and Rabaud, Vincent and Konolige, Kurt and Bradski, Gary},
+  booktitle={Computer Vision (ICCV), 2011 IEEE international conference on},
+  pages={2564--2571},
+  year={2011},
+  organization={IEEE}
+}
+
+@BRISK{leutenegger2011brisk,
+  title={BRISK: Binary robust invariant scalable keypoints},
+  author={Leutenegger, Stefan and Chli, Margarita and Siegwart, Roland Y},
+  booktitle={Computer Vision (ICCV), 2011 IEEE International Conference on},
+  pages={2548--2555},
+  year={2011},
+  organization={IEEE}
+}
+
+@FREAK{alahi2012freak,
+  title={Freak: Fast retina keypoint},
+  author={Alahi, Alexandre and Ortiz, Raphael and Vandergheynst, Pierre},
+  booktitle={2012 IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={510--517},
+  year={2012},
+  organization={Ieee}
+}
+
+@FAST{rosten2010faster,
+  title={Faster and better: A machine learning approach to corner detection},
+  author={Rosten, Edward and Porter, Reid and Drummond, Tom},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={32},
+  number={1},
+  pages={105--119},
+  year={2010},
+  publisher={IEEE}
+}
+
+@SUSAN{smith1997susan,
+  title={SUSAN—a new approach to low level image processing},
+  author={Smith, Stephen M and Brady, J Michael},
+  journal={International journal of computer vision},
+  volume={23},
+  number={1},
+  pages={45--78},
+  year={1997},
+  publisher={Springer}
+}
+@Bresenham_circle{bresenham1977linear,
+  title={A linear algorithm for incremental digital display of circular arcs},
+  author={Bresenham, Jack},
+  journal={Communications of the ACM},
+  volume={20},
+  number={2},
+  pages={100--106},
+  year={1977},
+  publisher={ACM}
+}
+@Gil{giltutorial,
+  title={Tutorial on Binary Descriptors--part},
+  author={Gil's, CV}
+}
+
+@DATASET{liwicki2011signature,
+  title={Signature verification competition for online and offline skilled forgeries (sigcomp2011)},
+  author={Liwicki, Marcus and Malik, Muhammad Imran and Van Den Heuvel, C Elisa and Chen, Xiaohong and Berger, Charles and Stoel, Reinoud and Blumenstein, Michael and Found, Bryan},
+  booktitle={Document Analysis and Recognition (ICDAR), 2011 International Conference on},
+  pages={1480--1484},
+  year={2011},
+  organization={IEEE}
+}
+
+
+@Statistical{rahman2016statistical,
+  title={A statistical approach for offline signature verification using local gradient features},
+  author={Rahman, ABM Ashikur and Mostaeen, Golam and Kabir, Md Hasanul},
+  booktitle={Electrical, Computer \& Telecommunication Engineering (ICECTE), International Conference on},
+  pages={1--4},
+  year={2016},
+  organization={IEEE}
+}
+
+@ROC{fawcett2006introduction,
+  title={An introduction to ROC analysis},
+  author={Fawcett, Tom},
+  journal={Pattern recognition letters},
+  volume={27},
+  number={8},
+  pages={861--874},
+  year={2006},
+  publisher={Elsevier}
+}
+
+
+
+
+%%%%%%%%%%%%%%%%%%   Hafeman Offline Handwritten Signature verification Review 2017
+
+
+
+
+@survey 1{impedovo2008automatic,
+  title={Automatic signature verification: The state of the art},
+  author={Impedovo, Donato and Pirlo, Giuseppe},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)},
+  volume={38},
+  number={5},
+  pages={609--635},
+  year={2008},
+  publisher={IEEE}
+}
+
+@survey 2{impedovo2012handwritten,
+  title={Handwritten signature verification: New advancements and open issues},
+  author={Impedovo, Donato and Pirlo, Giuseppe and Plamondon, Rejean},
+  booktitle={Frontiers in handwriting recognition (ICFHR), 2012 international conference on},
+  pages={367--372},
+  year={2012},
+  organization={IEEE}
+}
+
+@survey 3{ruiz2008offline,
+  title={Offline signature verification using local interest points and descriptors},
+  author={Ruiz-del-Solar, Javier and Devia, Christ and Loncomilla, Patricio and Concha, Felipe},
+  booktitle={Iberoamerican Congress on Pattern Recognition},
+  pages={22--29},
+  year={2008},
+  organization={Springer}
+}
+@survey 4{okawa2018bovw,
+  title={From BoVW to VLAD with KAZE features: Offline signature verification considering cognitive processes of forensic experts},
+  author={Okawa, Manabu},
+  journal={Pattern Recognition Letters},
+  year={2018},
+  publisher={Elsevier}
+}
+@fsurvey_1{mikolajczyk2005performance,
+  title={A performance evaluation of local descriptors},
+  author={Mikolajczyk, Krystian and Schmid, Cordelia},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={27},
+  number={10},
+  pages={1615--1630},
+  year={2005},
+  publisher={IEEE}
+}
+@fsurvey_2{icsik2014comparative,
+  title={A comparative evaluation of well-known feature detectors and descriptors},
+  author={I{\c{s}}{\i}k, {\c{S}}ahin},
+  journal={International Journal of Applied Mathematics, Electronics and Computers},
+  volume={3},
+  number={1},
+  pages={1--6},
+  year={2014}
+}
+
+@fsurvey_3 7{kashif2016feature,
+  title={Feature description with SIFT, SURF, BRIEF, BRISK, or FREAK? A general question answered for bone age assessment},
+  author={Kashif, Muhammad and Deserno, Thomas M and Haak, Daniel and Jonas, Stephan},
+  journal={Computers in biology and medicine},
+  volume={68},
+  pages={67--75},
+  year={2016},
+  publisher={Elsevier}
+}
+@fsurvey_4{bayraktar2017analysis,
+  title={Analysis of feature detector and descriptor combinations with a localization experiment for various performance metrics},
+  author={Bayraktar, Ertugrul and Boyraz, Pinar},
+  journal={arXiv preprint arXiv:1710.06232},
+  year={2017}
+}
+@fsurvey_5{karami2017image,
+  title={Image matching using SIFT, SURF, BRIEF and ORB: performance comparison for distorted images},
+  author={Karami, Ebrahim and Prasad, Siva and Shehata, Mohamed},
+  journal={arXiv preprint arXiv:1710.02726},
+  year={2017}
+}
+@fsurvey_6{zheng2018sift,
+  title={SIFT meets CNN: A decade survey of instance retrieval},
+  author={Zheng, Liang and Yang, Yi and Tian, Qi},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={40},
+  number={5},
+  pages={1224--1244},
+  year={2018},
+  publisher={IEEE}
+}
+
+
+%%%%%%%%%%%%%%%%%%Oxford data set missing
+
+
+@SIFT_in_sig{ruiz2008offline,
+  title={Offline signature verification using local interest points and descriptors},
+  author={Ruiz-del-Solar, Javier and Devia, Christ and Loncomilla, Patricio and Concha, Felipe},
+  booktitle={Iberoamerican Congress on Pattern Recognition},
+  pages={22--29},
+  year={2008},
+  organization={Springer}
+}
+
+@SURF_in_sig{malik2014automatic,
+  title={Automatic signature stability analysis and verification using local features},
+  author={Malik, Muhammad Imran and Liwicki, Marcus and Dengel, Andreas and Uchida, Seiichi and Frinken, Volkmar},
+  booktitle={Frontiers in Handwriting Recognition (ICFHR), 2014 14th International Conference on},
+  pages={621--626},
+  year={2014},
+  organization={IEEE}
+}
